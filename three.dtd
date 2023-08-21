@@ -1,0 +1,7 @@
+<!ELEMENT Products (Product+)>
+<!ELEMENT Product (ProductName, Price, AvailableQuantity, Category)>
+<!ATTLIST Product ProductID CDATA #REQUIRED>
+<!ELEMENT ProductName (#PCDATA)>
+<!ELEMENT Price (#PCDATA)>
+<!ELEMENT AvailableQuantity (#PCDATA)>
+<!ELEMENT Category (#PCDATA)>

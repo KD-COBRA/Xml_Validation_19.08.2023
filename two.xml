@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="three.dtd" type="application/xml-dtd"?>
+<?xml-model href="one.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<Products>
+    <Product ProductID="P1">
+      <ProductName>Smartphone</ProductName>
+      <Price>299.99</Price>
+      <AvailableQuantity>50</AvailableQuantity>
+      <Category>Electronics</Category>
+    </Product>
+    <Product ProductID="P2">
+      <ProductName>T-shirt</ProductName>
+      <Price>15.99</Price>
+      <AvailableQuantity>200</AvailableQuantity>
+      <Category>Clothing</Category>
+    </Product>
+    <Product ProductID="P3">
+      <ProductName>Python Programming</ProductName>
+      <Price>29.99</Price>
+      <AvailableQuantity>1000</AvailableQuantity>
+      <Category>Books</Category>
+    </Product>
+  </Products>
+  
